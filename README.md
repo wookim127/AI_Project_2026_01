@@ -36,7 +36,7 @@ MarkDown 내용정리
 Click [My Git Hub](https://github.com/wookim127/AI_Project_2026_01.git)
 
 <!-- Image -->
-![image]()
+![image](https://github.com/shingugitvr000/AI_Project/blob/main/ControlNet/Pixel.png?raw=true)
 
 <!-- Table -->
 |Header|Description|Other|
